@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Logo from './components/Logo';
+import Hero from './components/Hero';
 import './App.css';
 
 class App extends Component {
@@ -15,7 +16,7 @@ class App extends Component {
         <header className="Header">
           <Logo />
         </header>
-        
+        <Hero />
       </div>
     );
   }

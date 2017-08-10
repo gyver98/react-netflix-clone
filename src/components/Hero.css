@@ -1,0 +1,6 @@
+.Hero {
+  width: 100%;
+  position: relative;
+  background-size: cover;
+  min-height: 800px;
+}
