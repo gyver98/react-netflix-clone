@@ -1,3 +1,14 @@
+body {
+  color: white;
+}
+
+p {
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.6;
+  margin-bottom: 1em;
+}
+
 .Header {
   background: linear-gradient(to bottom, black 0%, transparent 100%);
   display: flex;

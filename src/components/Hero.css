@@ -4,3 +4,30 @@
   background-size: cover;
   min-height: 800px;
 }
+
+.Hero .content {
+  position: relative;
+  width: 500px;
+  left: 10vw;
+  top: 10vw;
+  z-index: 4;
+}
+
+.Hero .content .logo {
+  max-width: 400px;
+  display: block;
+  position: relative;
+  left: -5px;
+}
+
+.Hero .content h2 {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.4;
+  margin-bottom: 1em;
+}
+
+.Hero .content p {
+  width: 100%;
+  
+}
